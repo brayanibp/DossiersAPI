@@ -12,7 +12,7 @@
         }
     },
     "paths": {
-        "/pdf": {
+        "/api/pdf": {
             "get": {
                 "tags": [
                     "PDFs"

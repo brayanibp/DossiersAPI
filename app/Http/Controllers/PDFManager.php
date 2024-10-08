@@ -8,7 +8,7 @@ class PDFManager extends Controller
 {
     /**
      *  @OA\Get(
-     *      path="/pdf",
+     *      path="/api/pdf",
      *      operationId="getPDFsList",
      *      tags={"PDFs"},
      *      summary="Get list of PDFs",
